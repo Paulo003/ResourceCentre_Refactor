@@ -157,6 +157,7 @@ public class ResourceCentre {
 			output += String.format("%-84s \n", camcorderList.get(i).toString());
 		}
 		return output;
+		//wergethjy
 	}
 	public static void viewAllCamcorder(ArrayList<Camcorder> camcorderList) {
 		ResourceCentre.setHeader("CAMCORDER LIST");
